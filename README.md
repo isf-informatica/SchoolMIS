@@ -1,1 +1,2 @@
 # SchoolMIS
+School Management System
